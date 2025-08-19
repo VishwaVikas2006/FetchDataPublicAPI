@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pokémon API Fetcher
 
 This React web application fetches and displays Pokémon data from the public [Pokémon API](https://pokeapi.co/). It features loading/error handling and pagination.
@@ -28,3 +29,6 @@ This React web application fetches and displays Pokémon data from the public [P
 
 ## License
 MIT
+=======
+# FetchDataPublicAPI
+>>>>>>> 9c25eff66d5041d2f6f80c2e145532b1126b5f88
