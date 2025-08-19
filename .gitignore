@@ -1,1 +1,7 @@
 node_modules/
+<<<<<<< HEAD
+=======
+build/
+dist/
+.envnode_modules
+>>>>>>> e74565f (Add .gitignore and clean node_modules from repo)

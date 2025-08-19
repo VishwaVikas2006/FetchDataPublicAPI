@@ -5,7 +5,11 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-scripts": "latest"
+=======
+    "react-scripts": "^5.0.1"
+>>>>>>> e74565f (Add .gitignore and clean node_modules from repo)
   },
   "scripts": {
     "start": "react-scripts start",
